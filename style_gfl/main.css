@@ -313,56 +313,56 @@ hr {
     z-index: 10;
     font-size: 0px; }
   .tile.tile-2 .tile-inner {
-    background-image: url('../Tile-sets/bishops/1gregg.jpg');
+    background-image: url('../Tile-sets/gifts.1mosquito_net.jpg');
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
-    background-image: url('../Tile-sets/bishops/2kinsolving.jpg');
+    background-image: url('../Tile-sets/gift/2bees.jpg');
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
-    background-image: url('../Tile-sets/bishops/3quin.jpg');}
+    background-image: url('../Tile-sets/gifts/3goat.jpg');}
   .tile.tile-16 .tile-inner {
-    background-image: url('../Tile-sets/bishops/4hines.jpg'); }
+    background-image: url('../Tile-sets/gifts/4pig.jpg'); }
   .tile.tile-32 .tile-inner {
-    background-image: url('../Tile-sets/bishops/5richardson.jpg'); }
+    background-image: url('../Tile-sets/gifts/5chickens.jpg'); }
   .tile.tile-64 .tile-inner {
-    background-image: url('../Tile-sets/bishops/6benitez.jpg');}
+    background-image: url('../Tile-sets/gifts/6garden.jpg');}
   .tile.tile-128 .tile-inner {
-    background-image: url('../Tile-sets/bishops/7payne.jpg');
+    background-image: url('../Tile-sets/gifts/7cow.jpg');
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
     font-size: 0px; }
     @media screen and (max-width: 520px) {
       .tile.tile-128 .tile-inner {
         font-size: 0px; } }
   .tile.tile-256 .tile-inner {
-    background-image: url('../Tile-sets/bishops/8wimberly.jpg');
+    background-image: url('../Tile-sets/gifts/8donkeycart.jpg');
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.31746), inset 0 0 0 1px rgba(255, 255, 255, 0.19048);
     font-size: 0px; }
     @media screen and (max-width: 520px) {
       .tile.tile-256 .tile-inner {
         font-size: 0px; } }
   .tile.tile-512 .tile-inner {
-    background-image: url('../Tile-sets/bishops/9doyle.jpg');
+    background-image: url('../Tile-sets/gifts/9oxen_plow.jpg');
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.39683), inset 0 0 0 1px rgba(255, 255, 255, 0.2381);
     font-size: 0px; }
     @media screen and (max-width: 520px) {
       .tile.tile-512 .tile-inner {
         font-size: 0px; } }
   .tile.tile-1024 .tile-inner {
-    background-image: url('../Tile-sets/bishops/10-dioseal.jpg');
+    background-image: url('../Tile-sets/gifts/10well.jpg');
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.47619), inset 0 0 0 1px rgba(255, 255, 255, 0.28571);
     font-size: 0px; }
     @media screen and (max-width: 520px) {
       .tile.tile-1024 .tile-inner {
         font-size: 0px; } }
   .tile.tile-2048 .tile-inner {
-    background-image: url('../Tile-sets/bishops/11shield.jpg');
+    background-image: url('../Tile-sets/gifts/11shield.jpg');
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
     font-size: 0px; }
     @media screen and (max-width: 520px) {
       .tile.tile-2048 .tile-inner {
         font-size: 0px; } }
   .tile.tile-super .tile-inner {
-    background-image: url('../Tile-sets/bishops/12compassrose.jpg');
+    background-image: url('../Tile-sets/gifts/12compassrose.jpg');
     font-size: 0px; }
     @media screen and (max-width: 520px) {
       .tile.tile-super .tile-inner {
